@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-I am currently pursuing Btech in Artificial Intelligence and Machine Learning(final year).<br>I am working as a Frontend Intern.<br>I have knowledge of various languages:<br>1.Programming Languages: Python, C,C++, SQL<br>2.Frontend Technologies: Javascript,MERN stack, PHP, HTML, CSS<br>
+I am currently pursuing Btech in Artificial Intelligence and Machine Learning(final year).<br>I am working as a Frontend Intern.<br>I have knowledge of various languages:<br>1.Programming Languages: Python, C,C++, SQL<br>2.WEB Development Technologies: Javascript,MERN stack, PHP, HTML, CSS<br>
 
 
 ## 🌐 Socials:
